@@ -1,5 +1,4 @@
 package racingcar.Model;
-
 public class Name {
     private final String name;
 

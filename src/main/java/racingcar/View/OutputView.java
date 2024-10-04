@@ -1,7 +1,6 @@
 package racingcar.View;
 
 import racingcar.Controller.ForwardController;
-
 import java.util.List;
 
 public class OutputView {

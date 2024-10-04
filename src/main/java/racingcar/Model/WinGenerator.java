@@ -2,7 +2,6 @@ package racingcar.Model;
 
 import racingcar.Controller.ForwardController;
 import racingcar.View.OutputView;
-
 import java.util.List;
 import java.util.stream.Collectors;
 

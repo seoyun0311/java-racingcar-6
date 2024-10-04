@@ -1,5 +1,4 @@
 package racingcar.Controller;
-
 import java.util.Random;
 
 public class ForwardController {
